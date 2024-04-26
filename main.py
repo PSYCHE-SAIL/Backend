@@ -1,22 +1,68 @@
-from fastapi import FastAPI
-from pydantic import BaseModel
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware  # Import the CORS middleware
+from pydantic import BaseModel, Field
+from typing import Optional
+from typing import List
+from inferencing import load_and_predict
 
 app = FastAPI()
-# Or use `os.getenv('GOOGLE_API_KEY')` to fetch an environment variable.
-GOOGLE_API_KEY=userdata.get('GOOGLE_API_KEY')
 
-genai.configure(api_key=GOOGLE_API_KEY)
+# Add CORS middleware to allow requests from your Vue.js application
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Update with the actual origin of your Vue.js app
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
-model = genai.GenerativeModel('gemini-pro')
 
-class Message(BaseModel):
-    username: str
-    message: str
+class MyInput(BaseModel):
+    inputs: List[str]
 
-@app.post("/chat")
-async def get_response(message: Message):
-    # Here you would implement the logic to interact with your chatbot powered by Gemini API
-    # For demonstration purposes, let's just echo the user's message
-    chat = model.start_chat(history=[])
-    response = chat.send_message("You are mental health support chatbot named 'SERENITY'. I want you to act as friend to the user and give proper mental health information in a friendly way. Try to motivate the user and give real life anecdotes and quotes to motivate. Never say anything that can offend them or make them insecure. If you feel like they are facing some mental issues tell them to consult a doctor or talk to your friends/families. You can also suggest stress busting activities like taking deep breathes, going for a walk etc if the person is feeling stressed out. Never say you have this disease about mental health as you can never be sure so always say that you have some symptoms so I think you should visit a doctor but never force them, try to interact with the user in a friendly way and also ask questions about how they are feeling or if they need any help. Provide resources by not saying \"additional resources\" but by saying you can refer to this website or say contact on certain number, to help them in certain situations and listen to problems and provide solutions if you are really sure about that. Try to give responses in short phrases only and make the user feel safe. Keep the response within 50 words")
-    return {"response": response}
+
+@app.get("/") 
+async def getData():
+    print("Disha")
+    return {"message":"success"}
+
+@app.post("/process_data")
+async def process_data(data: MyInput):
+    try:
+        # Access the data sent from the frontend
+        inputs = data.inputs
+
+        # Process the data here (e.g., save to database, perform computations, etc.)
+        # Replace the following print statements with your actual processing logic
+        print(f"Received Inputs: {inputs}")
+
+# Path to the saved model
+        model_path = 'stress_classifier_model.h5'
+
+    # New messages to predict stress levels for
+      
+        # Perform prediction using the trained model
+        predicted_stress_levels = load_and_predict(model_path, inputs)
+
+        # Display the predicted stress levels for each message
+        for message, stress_level in zip(inputs, predicted_stress_levels):
+            print(f"Message: {message} --> Predicted Stress Level: {stress_level}")
+        predicted_stress_levels = load_and_predict(model_path, inputs)
+
+# Calculate the average stress level
+        total_stress = sum(predicted_stress_levels)
+        average_stress = total_stress / len(predicted_stress_levels)
+
+        # Store the average stress level in a variable
+        final_stress = int(average_stress)
+
+        # Display the average stress level
+        print(f"Average Stress Level: {final_stress}")
+        # Return a response if needed
+        response = {"Final Stress Level": str(final_stress)}
+
+        return response
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+

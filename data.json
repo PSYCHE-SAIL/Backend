@@ -1,0 +1,1064 @@
+[
+  { "message": "Hello! How are you?", "stress_level": 0 },
+  { "message": "Hi there! How's your day going?", "stress_level": 0 },
+  {
+    "message": "Just checking in. How's everything with you?",
+    "stress_level": 0
+  },
+  {
+    "message": "Yes, that is a problem for me that can get stressful sometimes, but I cope with it.",
+    "stress_level": 2
+  },
+  {
+    "message": "I had a busy day at work, but managed to get everything done!",
+    "stress_level": 1
+  },
+  {
+    "message": "I'm a bit worried about my upcoming presentation.",
+    "stress_level": 2
+  },
+  { "message": "I can't handle all this pressure anymore!", "stress_level": 4 },
+  {
+    "message": "I'm feeling completely overwhelmed and anxious.",
+    "stress_level": 5
+  },
+  {
+    "message": "Sometimes it's hard to manage everything. I feel like I'm drowning.",
+    "stress_level": 4
+  },
+  {
+    "message": "Today was rough. I need some time to unwind.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling stressed out about the deadlines. There's so much to do!",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm struggling to stay calm amidst all the chaos.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling down and exhausted. Everything seems overwhelming.",
+    "stress_level": 5
+  },
+  {
+    "message": "I'm trying to stay positive, but it's challenging right now.",
+    "stress_level": 2
+  },
+  {
+    "message": "Dealing with uncertainty is really getting to me.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm worried about the future and what it holds.",
+    "stress_level": 2
+  },
+  {
+    "message": "Sometimes I just need a break from everything.",
+    "stress_level": 1
+  },
+  {
+    "message": "I feel like I'm on an emotional rollercoaster lately.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm struggling with self-doubt and anxiety about my abilities.",
+    "stress_level": 5
+  },
+  {
+    "message": "It's hard to concentrate when my mind is racing with worries.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling tense and on edge. Need to find a way to unwind.",
+    "stress_level": 4
+  },
+  {
+    "message": "The pressure is really getting to me. I don't know how much longer I can keep this up.",
+    "stress_level": 5
+  },
+  {
+    "message": "I'm struggling to find balance in my life right now.",
+    "stress_level": 3
+  },
+  {
+    "message": "This constant stress is affecting my sleep and overall well-being.",
+    "stress_level": 4
+  },
+  {
+    "message": "I feel overwhelmed by all the expectations placed on me.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm trying to stay positive, but it's tough when everything feels so uncertain.",
+    "stress_level": 2
+  },
+  {
+    "message": "I wish I could just escape from it all for a little while.",
+    "stress_level": 2
+  },
+  {
+    "message": "I'm feeling drained and emotionally exhausted.",
+    "stress_level": 4
+  },
+  {
+    "message": "It feels like I'm carrying the weight of the world on my shoulders.",
+    "stress_level": 5
+  },
+  {
+    "message": "I need to find healthier ways to cope with stress.",
+    "stress_level": 2
+  },
+  {
+    "message": "I'm struggling to stay motivated and focused.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling anxious and on edge about everything.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm worried about burning out if I keep pushing myself like this.",
+    "stress_level": 4
+  },
+  {
+    "message": "I feel like I'm drowning in responsibilities.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm finding it hard to stay positive amidst all the challenges.",
+    "stress_level": 3
+  },
+  {
+    "message": "I wish I could just take a mental break from it all.",
+    "stress_level": 2
+  },
+  {
+    "message": "I'm feeling stressed and overwhelmed. Need to find some peace of mind.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm struggling to keep my head above water.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling mentally exhausted from trying to juggle everything.",
+    "stress_level": 4
+  },
+  { "message": "I'm feeling tense and need to unwind.", "stress_level": 3 },
+  { "message": "I feel like I'm constantly on edge.", "stress_level": 4 },
+  {
+    "message": "I'm struggling to find joy in things that used to make me happy.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm overwhelmed by everything going on around me.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling anxious and it's affecting my daily life.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm finding it hard to stay calm and composed.",
+    "stress_level": 3
+  },
+  {
+    "message": "I need to find a way to relax and recharge.",
+    "stress_level": 2
+  },
+  {
+    "message": "I feel like I'm constantly under pressure.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm struggling to find balance in my life.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling overwhelmed by everything I need to do.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling stressed and it's affecting my health.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm finding it hard to stay positive in the face of challenges.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling on edge and need to find a way to relax.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm struggling to cope with the demands of everyday life.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling anxious and uncertain about the future.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm finding it hard to stay focused and productive.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling overwhelmed by all the responsibilities.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling stressed and it's affecting my mood.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm finding it hard to stay calm in stressful situations.",
+    "stress_level": 3
+  },
+  {
+    "message": "I need to find a way to manage my stress better.",
+    "stress_level": 2
+  },
+  {
+    "message": "I feel like I'm losing control of everything.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling overwhelmed and need to take a step back.",
+    "stress_level": 4
+  },
+  { "message": "I'm struggling to find peace of mind.", "stress_level": 3 },
+  {
+    "message": "I'm feeling anxious and it's affecting my sleep.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm finding it hard to stay positive during tough times.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling stressed and it's impacting my relationships.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm struggling to stay optimistic about the future.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling overwhelmed and need to find a way to relax.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling stressed and it's affecting my ability to focus.",
+    "stress_level": 4
+  },
+  { "message": "I'm finding it hard to stay motivated.", "stress_level": 3 },
+  {
+    "message": "I'm feeling anxious and need to find some peace.",
+    "stress_level": 4
+  },
+  { "message": "I'm struggling to manage my emotions.", "stress_level": 3 },
+  {
+    "message": "I'm feeling overwhelmed and need to take a break.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling stressed and it's affecting my well-being.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm finding it hard to stay calm and collected.",
+    "stress_level": 3
+  },
+  { "message": "I need to find a way to de-stress.", "stress_level": 2 },
+  {
+    "message": "I'm feeling anxious and it's impacting my daily life.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm struggling to stay positive amidst challenges.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling overwhelmed and need to find some peace of mind.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling stressed and it's affecting my mental health.",
+    "stress_level": 4
+  },
+  { "message": "I'm finding it hard to stay focused.", "stress_level": 3 },
+  {
+    "message": "I'm feeling anxious and need to find a way to relax.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm struggling to manage my stress levels.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling overwhelmed and need to take a step back.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling stressed and it's affecting my overall happiness.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm finding it hard to stay calm and composed.",
+    "stress_level": 3
+  },
+  {
+    "message": "I need to find a way to de-stress and regain balance.",
+    "stress_level": 2
+  },
+  {
+    "message": "I'm feeling anxious and it's affecting my well-being.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm struggling to stay positive in challenging times.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling overwhelmed and need to find some peace.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling stressed and it's impacting my daily life.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm finding it hard to stay focused and motivated.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling anxious and need to take a breather.",
+    "stress_level": 4
+  },
+  { "message": "I'm struggling to manage my stress.", "stress_level": 3 },
+  {
+    "message": "I'm feeling overwhelmed and need to find a way to relax.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling stressed and it's affecting my mental well-being.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm finding it hard to stay calm in difficult situations.",
+    "stress_level": 3
+  },
+  {
+    "message": "I need to find a way to de-stress and recharge.",
+    "stress_level": 2
+  },
+  { "message": "Hey there! How's your studying going?", "stress_level": 0 },
+  { "message": "I just aced my exam! Feeling relieved.", "stress_level": 1 },
+  {
+    "message": "I'm worried about my upcoming final project deadline.",
+    "stress_level": 2
+  },
+  {
+    "message": "I can't concentrate with all the noise in the library.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling nervous about the college application process.",
+    "stress_level": 2
+  },
+  {
+    "message": "I'm struggling to balance my studies and extracurricular activities.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel overwhelmed with the amount of coursework this semester.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling anxious about my career prospects after graduation.",
+    "stress_level": 3
+  },
+  {
+    "message": "Dealing with imposter syndrome is really challenging.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling burnt out from all the late-night study sessions.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm stressed about my performance in the upcoming mock exams.",
+    "stress_level": 3
+  },
+  {
+    "message": "Having a hard time coping with peer pressure at school.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel like I'm falling behind in my classes.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling isolated and lonely in this competitive environment.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm anxious about speaking up in class discussions.",
+    "stress_level": 2
+  },
+  {
+    "message": "I'm struggling to stay motivated after receiving negative feedback.",
+    "stress_level": 4
+  },
+  {
+    "message": "Feeling overwhelmed by the workload and deadlines.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm stressed about my part-time job affecting my studies.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling insecure about my academic abilities.",
+    "stress_level": 2
+  },
+  {
+    "message": "Dealing with exam anxiety is really challenging.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm worried about disappointing my parents with my grades.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel like I don't fit in with my classmates.",
+    "stress_level": 2
+  },
+  {
+    "message": "I'm struggling to manage my time effectively.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling stressed about the upcoming college entrance exams.",
+    "stress_level": 4
+  },
+  { "message": "I'm anxious about my future career path.", "stress_level": 3 },
+  {
+    "message": "I'm feeling overwhelmed by the pressure to succeed.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm struggling with procrastination and self-discipline.",
+    "stress_level": 3
+  },
+  { "message": "Feeling anxious about my grades slipping.", "stress_level": 3 },
+  {
+    "message": "I'm stressed about finding a balance between studying and socializing.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm worried about my ability to meet academic expectations.",
+    "stress_level": 3
+  },
+  {
+    "message": "Dealing with sleepless nights before exams.",
+    "stress_level": 4
+  },
+  { "message": "I'm feeling overwhelmed by the workload.", "stress_level": 4 },
+  {
+    "message": "I'm anxious about presenting my project in front of the class.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling burnt out from constant pressure to excel.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm stressed about not knowing what to do after graduation.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm struggling to stay focused during study sessions.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling anxious about my academic performance affecting my future.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm worried about failing my exams and disappointing myself.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel pressured to choose the 'right' career path.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm stressed about dealing with academic competition.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling overwhelmed by the workload and deadlines.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm anxious about my part-time job affecting my studies.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling insecure about my academic abilities.",
+    "stress_level": 2
+  },
+  {
+    "message": "Dealing with exam anxiety is really challenging.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm worried about disappointing my parents with my grades.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel like I don't fit in with my classmates.",
+    "stress_level": 2
+  },
+  {
+    "message": "I'm struggling to manage my time effectively.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling stressed about the upcoming college entrance exams.",
+    "stress_level": 4
+  },
+  { "message": "I'm anxious about my future career path.", "stress_level": 3 },
+  {
+    "message": "I'm feeling overwhelmed by the pressure to succeed.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm struggling with procrastination and self-discipline.",
+    "stress_level": 3
+  },
+  { "message": "Feeling anxious about my grades slipping.", "stress_level": 3 },
+  {
+    "message": "I'm stressed about finding a balance between studying and socializing.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm worried about my ability to meet academic expectations.",
+    "stress_level": 3
+  },
+  {
+    "message": "Dealing with sleepless nights before exams.",
+    "stress_level": 4
+  },
+  { "message": "I'm feeling overwhelmed by the workload.", "stress_level": 4 },
+  {
+    "message": "I'm anxious about presenting my project in front of the class.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling burnt out from constant pressure to excel.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm stressed about not knowing what to do after graduation.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm struggling to stay focused during study sessions.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling anxious about my academic performance affecting my future.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm worried about failing my exams and disappointing myself.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel pressured to choose the 'right' career path.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm stressed about dealing with academic competition.",
+    "stress_level": 4
+  },
+  {
+    "message": "Hey! How are you feeling about the upcoming exams?",
+    "stress_level": 0
+  },
+  {
+    "message": "I'm relieved that the semester is almost over.",
+    "stress_level": 1
+  },
+  {
+    "message": "I'm a bit anxious about the final presentation next week.",
+    "stress_level": 2
+  },
+  {
+    "message": "It's challenging to focus with all the distractions at home.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling uncertain about which career path to pursue after graduation.",
+    "stress_level": 2
+  },
+  {
+    "message": "Struggling to find time for myself amidst the hectic schedule.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel overwhelmed by the workload this semester.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm worried about landing a job after college.",
+    "stress_level": 3
+  },
+  {
+    "message": "Dealing with self-doubt and pressure to perform well.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm exhausted from late nights studying for exams.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm stressing out over the upcoming group project.",
+    "stress_level": 3
+  },
+  {
+    "message": "It's tough dealing with peer competition and comparison.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel like I'm drowning in assignments and deadlines.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm struggling to stay motivated in this demanding environment.",
+    "stress_level": 4
+  },
+  {
+    "message": "Feeling isolated and disconnected from friends due to academic pressure.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm worried about not meeting my academic goals.",
+    "stress_level": 2
+  },
+  {
+    "message": "I get anxious before exams, but I try to stay calm.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling discouraged after receiving negative feedback on my project.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm overwhelmed by the coursework and upcoming deadlines.",
+    "stress_level": 4
+  },
+  {
+    "message": "Struggling to balance part-time work with academic responsibilities.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm feeling insecure about my abilities compared to my peers.",
+    "stress_level": 2
+  },
+  { "message": "Dealing with exam stress is draining.", "stress_level": 4 },
+  {
+    "message": "I'm worried about disappointing my family with my grades.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel like I don't belong in this competitive academic setting.",
+    "stress_level": 2
+  },
+  {
+    "message": "It's challenging to manage my time effectively.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling anxious about the pressure to perform well in exams.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm uncertain about my future career options.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel overwhelmed by everyone's expectations of me.",
+    "stress_level": 4
+  },
+  {
+    "message": "I struggle with procrastination and staying focused.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling anxious as the exam date approaches.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm stressed about finding a balance between academics and social life.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm worried about falling short of academic standards.",
+    "stress_level": 3
+  },
+  {
+    "message": "Dealing with sleepless nights due to exam preparation.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm feeling overwhelmed by the amount of coursework.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm anxious about presenting my research findings.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling burnt out from the constant academic pressure.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm stressed about making decisions about my future career.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm struggling to stay focused during study sessions.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling anxious about my academic performance affecting my future.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm worried about failing my exams and disappointing myself.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel pressured to choose the 'right' career path.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm stressed about dealing with academic competition.",
+    "stress_level": 4
+  },
+  { "message": "I'm feeling overwhelmed by the workload.", "stress_level": 4 },
+  {
+    "message": "I'm anxious about presenting my project in front of the class.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling burnt out from constant pressure to excel.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm stressed about not knowing what to do after graduation.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm struggling to stay focused during study sessions.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling anxious about my academic performance affecting my future.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm worried about failing my exams and disappointing myself.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel pressured to choose the 'right' career path.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm stressed about dealing with academic competition.",
+    "stress_level": 4
+  },
+  { "message": "I'm feeling overwhelmed by the workload.", "stress_level": 4 },
+  {
+    "message": "I'm anxious about presenting my project in front of the class.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling burnt out from constant pressure to excel.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm stressed about not knowing what to do after graduation.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm struggling to stay focused during study sessions.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling anxious about my academic performance affecting my future.",
+    "stress_level": 4
+  },
+  {
+    "message": "I'm worried about failing my exams and disappointing myself.",
+    "stress_level": 3
+  },
+  {
+    "message": "I feel pressured to choose the 'right' career path.",
+    "stress_level": 3
+  },
+  {
+    "message": "I'm stressed about dealing with academic competition.",
+    "stress_level": 4
+  },
+  {
+    "message": "Can't focus on studying because I keep thinking about them. Is this a crush?",
+    "stress_level": 1
+  },
+  {
+    "message": "Finally gathered the courage to ask them out, but they said no. Feeling rejected.",
+    "stress_level": 4
+  },
+  {
+    "message": "So much homework and projects due! How will I ever finish everything on time?",
+    "stress_level": 5
+  },
+  {
+    "message": "They keep making fun of me in class. Feeling lonely and isolated.",
+    "stress_level": 3
+  },
+  {
+    "message": "Test tomorrow and I feel completely unprepared. Wish I managed my time better.",
+    "stress_level": 4
+  },
+  {
+    "message": "Balancing schoolwork, extracurriculars, and a social life feels impossible.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling judged by everyone in the cafeteria. Don't know where to sit.",
+    "stress_level": 2
+  },
+  {
+    "message": "Parents keep nagging about getting better grades. Feeling pressured and stressed.",
+    "stress_level": 4
+  },
+  {
+    "message": "Teacher gave a surprise quiz and I totally bombed it. Feeling discouraged.",
+    "stress_level": 5
+  },
+  {
+    "message": "Trying to decide what college to go to, but I'm so indecisive. Feeling lost.",
+    "stress_level": 2
+  },
+  {
+    "message": "Fight with my best friend. Feeling hurt and don't know how to make amends.",
+    "stress_level": 3
+  },
+  {
+    "message": "Everyone seems to have their friend groups already. Feeling left out.",
+    "stress_level": 2
+  },
+  {
+    "message": "Longing for a romantic relationship, but don't know how to put myself out there.",
+    "stress_level": 1
+  },
+  {
+    "message": "Feeling insecure about my appearance. Social media comparisons are getting to me.",
+    "stress_level": 3
+  },
+  {
+    "message": "Exhausted from staying up late studying. Can't seem to get a good night's sleep.",
+    "stress_level": 5
+  },
+  {
+    "message": "Feeling overwhelmed with college applications. Need help prioritizing essays.",
+    "stress_level": 4
+  },
+  {
+    "message": "Considering a part-time job, but worried it will interfere with schoolwork.",
+    "stress_level": 2
+  },
+  {
+    "message": "Sibling keeps borrowing my things without asking. Feeling frustrated and disrespected.",
+    "stress_level": 1
+  },
+  {
+    "message": "Teacher doesn't seem to understand my learning style. Feeling discouraged in class.",
+    "stress_level": 3
+  },
+  {
+    "message": "Trying to juggle studying for multiple exams this week. Feeling overloaded.",
+    "stress_level": 5
+  },
+  {
+    "message": "Feeling invisible in class. Wish I could participate more in discussions.",
+    "stress_level": 2
+  },
+  {
+    "message": "Anxious about upcoming college entrance exams. Feeling the pressure to succeed.",
+    "stress_level": 4
+  },
+  {
+    "message": "Having a fight with my significant other. Feeling hurt and confused.",
+    "stress_level": 3
+  },
+  {
+    "message": "Trying to maintain a healthy diet, but school cafeteria food is tempting.",
+    "stress_level": 1
+  },
+  {
+    "message": "Feeling burnt out from all the school activities. Need a break to recharge.",
+    "stress_level": 5
+  },
+  {
+    "message": "Wish I had more time for hobbies and interests outside of schoolwork.",
+    "stress_level": 2
+  },
+  {
+    "message": "Feeling self-conscious about giving a presentation in class. Worried about public speaking.",
+    "stress_level": 4
+  },
+  {
+    "message": "Long distance relationship with significant other is getting tough. Missing them dearly.",
+    "stress_level": 3
+  },
+  {
+    "message": "Trying to find a study group, but everyone seems to have their own circles already.",
+    "stress_level": 2
+  },
+  {
+    "message": "Feeling left out of social events because I don't have a car.",
+    "stress_level": 1
+  },
+  {
+    "message": "Considering a gap year, but worried my friends will move on without me.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling like a procrastinator. Need to find ways to be more productive.",
+    "stress_level": 4
+  },
+  {
+    "message": "Teacher keeps calling on me in class, even though I'm not prepared.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling overwhelmed by the pressure to get good grades for college scholarships.",
+    "stress_level": 5
+  },
+  {
+    "message": "Trying to learn a new skill, but feeling frustrated by the slow progress.",
+    "stress_level": 2
+  },
+  {
+    "message": "Feeling homesick after moving away for college. Missing family and friends.",
+    "stress_level": 3
+  },
+  {
+    "message": "Roommate's messy habits are driving me crazy. Don't know how to address it.",
+    "stress_level": 1
+  },
+  {
+    "message": "Feeling sleep-deprived from late-night study sessions. Worried about my health.",
+    "stress_level": 4
+  },
+  {
+    "message": "Everyone seems to know what they want to do with their life. Feeling lost about my future.",
+    "stress_level": 2
+  },
+  {
+    "message": "Feeling judged by classmates for my different interests. Wish I could be myself.",
+    "stress_level": 3
+  },
+  {
+    "message": "Trying to balance a part-time job and schoolwork. Feeling stretched thin.",
+    "stress_level": 5
+  },
+  {
+    "message": "Feeling anxious about public transportation. Worried about getting lost or missing class.",
+    "stress_level": 1
+  },
+  {
+    "message": "Teacher assigns a surprise group project with people I don't know well. Feeling awkward.",
+    "stress_level": 2
+  },
+  {
+    "message": "Feeling overwhelmed by the workload in all my classes. Wish I could take a break.",
+    "stress_level": 4
+  },
+  {
+    "message": "Feeling unmotivated to go to class. Struggling to find the energy to attend lectures.",
+    "stress_level": 3
+  },
+  {
+    "message": "Worried about failing a class. Feeling like a disappointment to my family.",
+    "stress_level": 5
+  },
+  {
+    "message": "Feeling invisible in my social circle. Wish my friends included me more in their plans.",
+    "stress_level": 2
+  },
+  {
+    "message": "Feeling overwhelmed by the amount of college choices. Not sure how to choose the right one.",
+    "stress_level": 4
+  },
+  {
+    "message": "Having a fight with my parents about my career path. Feeling misunderstood.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling like a social butterfly. Worried I'm neglecting my schoolwork.",
+    "stress_level": 1
+  },
+  {
+    "message": "Trying to maintain a healthy sleep schedule, but roommates are loud at night.",
+    "stress_level": 2
+  },
+  {
+    "message": "Feeling burnt out from extracurricular activities. Debating whether to cut back.",
+    "stress_level": 4
+  },
+  {
+    "message": "Lost my favorite pen right before a big exam. Feeling anxious and unprepared.",
+    "stress_level": 3
+  },
+  {
+    "message": "Feeling overwhelmed by the cost of textbooks and school supplies.",
+    "stress_level": 5
+  },
+  {
+    "message": "Classmate keeps copying my work. Feeling frustrated and unsure how to address it.",
+    "stress_level": 2
+  },
+  {
+    "message": "Feeling insecure about my presentation skills. Wish I could speak more confidently.",
+    "stress_level": 1
+  },
+  {
+    "message": "Struggling to understand a difficult concept in class. Feeling discouraged about learning it.",
+    "stress_level": 4
+  },
+  {
+    "message": "Feeling jealous of classmates who seem to have everything figured out.",
+    "stress_level": 3
+  },
+  {
+    "message": "Lost my student ID. Worried about the hassle of getting a replacement.",
+    "stress_level": 1
+  },
+  {
+    "message": "Feeling overwhelmed by the number of deadlines approaching. Need a better way to manage time.",
+    "stress_level": 5
+  },
+  {
+    "message": "Feeling guilty about taking a break from studying. Worried about falling behind.",
+    "stress_level": 2
+  }
+]
