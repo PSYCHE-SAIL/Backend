@@ -3,3 +3,4 @@ uvicorn[standard]
 tensorflow
 fastapi-cors
 numpy
+langchain-google-vertexai
