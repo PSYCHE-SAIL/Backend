@@ -63,5 +63,3 @@ pip install -r requirements.txt
 ```bash
 uvicorn main:app --reload
 ```
-
-Feel free to expand upon these instructions or provide additional context as needed. Let's make your documentation shine! 🌟
