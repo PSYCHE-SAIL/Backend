@@ -4,6 +4,7 @@ from pydantic import BaseModel, Field
 from typing import Optional
 from typing import List
 from inferencing import load_and_predict
+from VectorSearch import getChatID
 
 app = FastAPI()
 
@@ -21,44 +22,34 @@ class MyInput(BaseModel):
     inputs: List[str]
 
 
-@app.get("/") 
-async def getData():
-    print("Disha")
-    return {"message":"success"}
+@app.post("/getChatRoomID") 
+async def getChatroomId(data: MyInput):
+    inputs = data.inputs
+    chatID = getChatID(inputs)
+    return chatID
 
 @app.post("/process_data")
 async def process_data(data: MyInput):
-    try:
-        # Access the data sent from the frontend
+    try: 
         inputs = data.inputs
 
-        # Process the data here (e.g., save to database, perform computations, etc.)
-        # Replace the following print statements with your actual processing logic
         print(f"Received Inputs: {inputs}")
 
-# Path to the saved model
         model_path = 'stress_classifier_model.h5'
 
-    # New messages to predict stress levels for
-      
-        # Perform prediction using the trained model
         predicted_stress_levels = load_and_predict(model_path, inputs)
 
-        # Display the predicted stress levels for each message
         for message, stress_level in zip(inputs, predicted_stress_levels):
             print(f"Message: {message} --> Predicted Stress Level: {stress_level}")
         predicted_stress_levels = load_and_predict(model_path, inputs)
 
-# Calculate the average stress level
         total_stress = sum(predicted_stress_levels)
         average_stress = total_stress / len(predicted_stress_levels)
 
-        # Store the average stress level in a variable
         final_stress = int(average_stress)
 
-        # Display the average stress level
         print(f"Average Stress Level: {final_stress}")
-        # Return a response if needed
+
         response = {"Final Stress Level": str(final_stress)}
 
         return response
